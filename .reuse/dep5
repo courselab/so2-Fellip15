@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: so2-Fellip15
+Upstream-Contact: Fellip15 <fellipalves15@gmail.com>
+Source: https://github.com/courselab/so2-Fellip15.git
+
+Files: */.dist
+Copyright: Fellip15 <fellipalves15@gmail.com>
+License: CC0-1.0
+

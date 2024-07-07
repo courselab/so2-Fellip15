@@ -1,6 +1,0 @@
-.tools
-.reuse
-.srcdir
-.version
-**/*.bin
-**/.dist
